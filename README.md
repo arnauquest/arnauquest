@@ -28,5 +28,5 @@
   ---
 
   ### :man_technologist: About Me :
-  I am a Engeneer Student <img src="https://media.giphy.com/media/iH1rdIKYvNhOu5Z8RY/giphy.gif" width="30"> from Spain.
+  I am a Engeneer Student <img src="https://media.giphy.com/media/iH1rdIKYvNhOu5Z8RY/giphy.gif" width="60"> from Spain.
 </div>
