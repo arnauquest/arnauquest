@@ -34,7 +34,7 @@
 </div>
 
 <div id="lenguaguesandtools" align="center">
-***
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -53,5 +53,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress"  alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original-wordmark.svg" title="Moodle"  alt="Moodle" width="40" height="40"/>&nbsp;
 </div>
-***
+<hr>
+
+### :fire: My Stats :
+<img src="https://github.com/arnautaga/arnautaga/blob/main/github-metrics.svg" title="MyStats"  alt="MyStats">&nbsp;
 
