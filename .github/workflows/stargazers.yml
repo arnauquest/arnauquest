@@ -1,0 +1,30 @@
+name: Stargazers
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get repo data
+        run: |
+          REPOS=$(curl -s "https://api.github.com/users/tu-usuario/repos?per_page=100" | jq -r '.[].full_name')
+          STARGAZERS_TOTAL=0
+          REPOS_STARS=()
+          for REPO in $REPOS; do
+            STARGAZERS=$(curl -s "https://api.github.com/repos/$REPO" | jq -r '.stargazers_count')
+            STARGAZERS_TOTAL=$((STARGAZERS_TOTAL + STARGAZERS))
+            REPOS_STARS+=("$STARGAZERS $REPO")
+          done
+          echo "Total Stargazers: $STARGAZERS_TOTAL"
+          echo "${REPOS_STARS[@]}" | tr ' ' '\n' > repos_stars.txt
+
+      - name: Sort and filter repos
+        run: |
+          sort -r repos_stars.txt -o repos_stars.txt
+          head -n 4 repos_stars.txt > top_repos.txt
