@@ -13,7 +13,7 @@ jobs:
 
       - name: Get repo data
         run: |
-          REPOS=$(curl -s "https://api.github.com/users/tu-usuario/repos?per_page=100" | jq -r '.[].full_name')
+          REPOS=$(curl -s "https://api.github.com/users/arnautaga/repos?per_page=100" | jq -r '.[].full_name')
           STARGAZERS_TOTAL=0
           REPOS_STARS=()
           for REPO in $REPOS; do
