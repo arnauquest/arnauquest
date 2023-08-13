@@ -27,14 +27,14 @@
 </div>
 
 <div id="about me" align="center">
-  ---
+  ___
 
   ### :man_technologist: About Me :
   I am a Engeneer Student <img src="https://media.giphy.com/media/iH1rdIKYvNhOu5Z8RY/giphy.gif" width="60"> from Spain.
 </div>
 
 <div id="lenguaguesandtools" align="center">
----
+___
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -53,3 +53,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress"  alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original-wordmark.svg" title="Moodle"  alt="Moodle" width="40" height="40"/>&nbsp;
 </div>
+___
