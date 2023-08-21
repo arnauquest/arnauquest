@@ -15,7 +15,7 @@
 </div>
 -->
   
-<img src="https://komarev.com/ghpvc/?username=arnautaga&style=flat-square&color=green" alt=""/>
+![GitHub watchers](https://img.shields.io/github/watchers/arnautaga)
   
   <h1>
   hey there
