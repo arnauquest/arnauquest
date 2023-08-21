@@ -15,7 +15,7 @@
 </div>
 -->
   
-![GitHub watchers](https://img.shields.io/github/watchers/arnautaga)
+![GitHub watchers](https://img.shields.io/github/watchers/arnautaga/arnautaga)
   
   <h1>
   hey there
