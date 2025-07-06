@@ -58,5 +58,4 @@
 
 ### :fire: My Stats :
 <img src="https://github.com/arnautaga/arnautaga/blob/main/github-metrics.svg" title="MyStats"  alt="MyStats">&nbsp;
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 
