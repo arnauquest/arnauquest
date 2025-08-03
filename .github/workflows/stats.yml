@@ -23,7 +23,7 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          user: arnautaga
+          user: arnauquest
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
