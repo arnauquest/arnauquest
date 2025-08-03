@@ -16,7 +16,7 @@
 </div>
 -->
 
-![GitHub watchers](https://img.shields.io/github/watchers/arnautaga/arnautaga)
+![GitHub watchers](https://img.shields.io/github/watchers/arnauquest/arnauquest)
   
   <h1>
   hey there
@@ -57,6 +57,6 @@
 <hr>
 
 ### :fire: My Stats :
-<img src="https://github.com/arnautaga/arnautaga/blob/main/github-metrics.svg" title="MyStats"  alt="MyStats">&nbsp;
+<img src="https://github.com/arnauquest/arnauquest/blob/main/github-metrics.svg" title="MyStats"  alt="MyStats">&nbsp;
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=12426&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" title="MyHackatime" alt="MyHackatime">
 
